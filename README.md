@@ -43,6 +43,7 @@ A console-based application to manage student records using Java and MySQL.
 5. Run Main.java
 
 ##  Sample Output
+![Output](output.png)
 
 ===== Student Management System =====
 
