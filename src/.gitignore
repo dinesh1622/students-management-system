@@ -1,0 +1,12 @@
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Build files
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db
